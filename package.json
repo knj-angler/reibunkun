@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/knj-angler/reibunkun#readme",
   "dependencies": {
+    "@slack/bolt": "^3.12.2",
     "dotenv": "^16.0.3"
   }
 }
